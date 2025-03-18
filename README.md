@@ -22,10 +22,11 @@ nike-app-clone/
 │   │   └── back-to-top.js     # Back-to-top button functionality
 │   ├── images/
 │   │   ├── banner/            # Banner images
+│   │   ├── screenshots/       # Screenshots for documentation
 │   │   ├── section1/          # Section 1 images
 │   │   ├── section2/          # Section 2 images
 │   │   ├── section3/          # Section 3 images
-│   │   └── section4/          # Section 4 images
+│   │   ├── section4/          # Section 4 images
 │   └── favicon/               # Favicon files
 └── components/
     ├── footer.html            # Footer component
@@ -83,6 +84,14 @@ The website is designed to work on modern browsers including:
 - Firefox
 - Safari
 - Edge
+
+## Screenshots
+
+### Homepage Dropdown
+![Homepage Dropdown](assets/images/screenshots/homepage-dropdown.png)
+
+### Side Menu
+![Side Menu](assets/images/screenshots/sidemenu.png)
 
 ## License
 
