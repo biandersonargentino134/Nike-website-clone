@@ -87,6 +87,9 @@ The website is designed to work on modern browsers including:
 
 ## Screenshots
 
+### Homepage
+![Homepage](assets/images/screenshots/homepage.png)
+
 ### Homepage Dropdown
 ![Homepage Dropdown](assets/images/screenshots/homepage-dropdown.png)
 
