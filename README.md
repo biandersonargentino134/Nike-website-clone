@@ -10,6 +10,8 @@ This project is a frontend implementation of the Nike website, featuring a respo
 
 ```
 nike-app-clone/
+├── index.html            # Main HTML file
+├── README.md             # Project documentation
 ├── assets/
 │   ├── css/
 │   │   ├── style.css          # Main stylesheet
