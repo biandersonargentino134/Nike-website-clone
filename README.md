@@ -37,12 +37,12 @@ nike-app-clone/
 
 ## Features
 
-- Responsive design that adapts to desktop and mobile views
-- Dynamic header with scroll behaviors
-- Product showcases with interactive elements
-- Footer with Nike resources, help links, and company information
-- Back-to-top functionality for easy navigation
-- Component-based architecture for better code organization
+✅ Responsive design that adapts to desktop and mobile views
+✅ Dynamic header with scroll behaviors
+✅ Product showcases with interactive elements
+✅ Footer with Nike resources, help links, and company information
+✅ Back-to-top functionality for easy navigation
+✅ Component-based architecture for better code organization
 
 ## Technologies Used
 
