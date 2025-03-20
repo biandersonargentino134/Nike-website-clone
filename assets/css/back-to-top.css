@@ -4,7 +4,7 @@
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background-color: #b91a1a;
+    background-color: #1d90c9;
     width: 45px;
     height: 45px;
     border-radius: 50%;
@@ -24,7 +24,7 @@
 }
 
 .back-to-top:hover {
-    background-color: #bb4949;
+    background-color: #54b1cf;
     transform: translateY(-3px);
 }
 
