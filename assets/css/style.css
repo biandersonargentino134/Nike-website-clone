@@ -518,26 +518,6 @@ body {
     font-weight: 400;
 }
 
-.s2-nav-buttons {
-    display: flex;
-    gap: 10px;
-}
-
-.s2-nav-buttons i {
-    font-size: 30px;
-    cursor: pointer;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%; 
-    background-color: #cdcdcd;
-    transition: background-color 0.3s, transform 0.3s;
-    color: #000000;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-}
-
 #rightArrows2 { 
     background-color: #000; 
     color: #fff; 
@@ -665,26 +645,6 @@ body {
     font-weight: 400;
 }
 
-.s3-nav-buttons {
-    display: flex;
-    gap: 10px;
-}
-
-.s3-nav-buttons i {
-    font-size: 30px;
-    cursor: pointer;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%; 
-    background-color: #cdcdcd;
-    transition: background-color 0.3s, transform 0.3s;
-    color: #000000;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-}
-
 #rightArrows3 { 
     background-color: #000; 
     color: #fff; 
@@ -763,26 +723,6 @@ body {
     margin: 0;
     font-size: 24px;
     font-weight: 400;
-}
-
-.s4-nav-buttons {
-    display: flex;
-    gap: 10px;
-}
-
-.s4-nav-buttons i {
-    font-size: 30px;
-    cursor: pointer;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%; 
-    background-color: #cdcdcd;
-    transition: background-color 0.3s, transform 0.3s;
-    color: #000000;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
 
 #rightArrows4 { 
@@ -889,6 +829,27 @@ body {
 
 .seection5-column a:hover {
     color: #000;
+}
+
+/*common section2, section3, section4 buttons */
+.s2-nav-buttons, .s3-nav-buttons, .s4-nav-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.s2-nav-buttons i, .s3-nav-buttons i, .s4-nav-buttons i {
+    font-size: 30px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%; 
+    background-color: #cdcdcd;
+    transition: background-color 0.3s, transform 0.3s;
+    color: #000000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
 
 /* footer */
